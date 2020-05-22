@@ -5,4 +5,4 @@ I will write about what I learned everyday
 
 ## 英語
 
-## プログラミング
+## アルゴリズム
